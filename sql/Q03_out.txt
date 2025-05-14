@@ -1,0 +1,6 @@
+-- Results for Query 3: frequent_warmup_artists
+
+   artist_id                 name                  festival_name  year  warmup_count
+0         39    Anastasia-Dimitra  New York World Music Heritage  2025             3
+1         29  Thodoris Marantinis        Athens Reunion Festival  2024             3
+2          2           Anna Vissi           London Park Festival  2020             3

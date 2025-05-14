@@ -1,0 +1,4 @@
+-- Results for Query 14: genres_consistent_performances
+
+            genre  year1  year2  performance_count
+0  Pop/Electronic   2024   2025                  4

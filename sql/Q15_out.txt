@@ -1,0 +1,10 @@
+-- Results for Query 15: top_visitors_ratings_for_artist
+
+-- Parameters: artist_id=28
+
+   visitor_id            visitor_name   artist_name total_score  review_count avg_overall_rating
+0          53            Eva Nikolaou  Mariza Rizou          25             1             5.0000
+1          74        Stelios Petridis  Mariza Rizou          25             1             5.0000
+2          56           Anna Savvidis  Mariza Rizou          25             1             5.0000
+3          51  Panagiotis Michailidis  Mariza Rizou          25             1             5.0000
+4          72      Alexandros Galanis  Mariza Rizou          25             1             5.0000

@@ -1,0 +1,6 @@
+-- Results for Query 4: artist_average_ratings
+
+-- Parameters: artist_id=28
+
+   artist_id          name avg_artist_rating avg_overall_rating  total_reviews
+0         28  Mariza Rizou            5.0000             5.0000             12

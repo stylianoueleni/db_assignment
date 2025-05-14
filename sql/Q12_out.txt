@@ -1,0 +1,213 @@
+-- Results for Query 12: festival_staff_by_category
+
+    festival_date                     festival_name  staff_role  assigned_staff  tickets_sold  max_staff_per_venue avg_staff_per_venue  operating_venues total_concurrent_staff staffing_ratio
+0      2026-09-10                 Rio Summer Sounds    Security              50             0                   50                  50                 1                   2500            100
+1      2026-09-10                 Rio Summer Sounds     Support              20             0                   20                  20                 1                    400            100
+2      2026-09-10                 Rio Summer Sounds  Technician               3             0                    1                   1                 1                      3            300
+3      2026-09-09                 Rio Summer Sounds    Security              50             0                   50                  50                 2                   5000            100
+4      2026-09-09                 Rio Summer Sounds     Support              20             0                   20                  20                 2                    800            100
+5      2026-09-09                 Rio Summer Sounds  Technician               3             0                    1                   1                 2                      6            300
+6      2026-09-08                 Rio Summer Sounds    Security              50             0                   50                  50                 1                   2500            100
+7      2026-09-08                 Rio Summer Sounds     Support              20             0                   20                  20                 1                    400            100
+8      2026-09-08                 Rio Summer Sounds  Technician               3             0                    1                   1                 1                      3            300
+9      2026-09-07                 Rio Summer Sounds    Security              50             0                   50                  50                 1                   2500            100
+10     2026-09-07                 Rio Summer Sounds     Support              20             0                   20                  20                 1                    400            100
+11     2026-09-07                 Rio Summer Sounds  Technician               3             0                    1                   1                 1                      3            300
+12     2026-09-06                 Rio Summer Sounds    Security               4             5                    4                   4                 1                     80            100
+13     2026-09-06                 Rio Summer Sounds     Support               2             5                    2                   2                 1                     20            100
+14     2026-09-06                 Rio Summer Sounds  Technician               3             5                    1                   1                 1                     15            300
+15     2026-09-05                 Rio Summer Sounds    Security              15            10                   15                  15                 1                   2250            100
+16     2026-09-05                 Rio Summer Sounds     Support               6            10                    6                   6                 1                    360            100
+17     2026-09-05                 Rio Summer Sounds  Technician               3            10                    1                   1                 1                     30            300
+18     2025-08-10     New York World Music Heritage    Security              15             0                   15                  15                 1                    225            100
+19     2025-08-10     New York World Music Heritage     Support               6             0                    6                   6                 1                     36            100
+20     2025-08-10     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+21     2025-08-09     New York World Music Heritage    Security              50             0                   50                  50                 1                   2500            100
+22     2025-08-09     New York World Music Heritage     Support              20             0                   20                  20                 1                    400            100
+23     2025-08-09     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+24     2025-08-08     New York World Music Heritage    Security              25             0                   25                  25                 1                    625            100
+25     2025-08-08     New York World Music Heritage     Support              10             0                   10                  10                 1                    100            100
+26     2025-08-08     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+27     2025-08-07     New York World Music Heritage    Security              50             0                   50                  50                 1                   2500            100
+28     2025-08-07     New York World Music Heritage     Support              20             0                   20                  20                 1                    400            100
+29     2025-08-07     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+30     2025-08-06     New York World Music Heritage    Security              50             0                   50                  50                 1                   2500            100
+31     2025-08-06     New York World Music Heritage     Support              20             0                   20                  20                 1                    400            100
+32     2025-08-06     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+33     2025-08-05     New York World Music Heritage    Security              50             0                   50                  50                 1                   2500            100
+34     2025-08-05     New York World Music Heritage     Support              20             0                   20                  20                 1                    400            100
+35     2025-08-05     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+36     2025-08-04     New York World Music Heritage    Security              50             0                   50                  50                 1                   2500            100
+37     2025-08-04     New York World Music Heritage     Support              20             0                   20                  20                 1                    400            100
+38     2025-08-04     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+39     2025-08-03     New York World Music Heritage    Security              15             0                   15                  15                 1                    225            100
+40     2025-08-03     New York World Music Heritage     Support               6             0                    6                   6                 1                     36            100
+41     2025-08-03     New York World Music Heritage  Technician               3             0                    1                   1                 1                      3            300
+42     2025-08-02     New York World Music Heritage    Security              50             5                   50                  50                 2                  15000            100
+43     2025-08-02     New York World Music Heritage     Support              20             5                   20                  20                 2                   2400            100
+44     2025-08-02     New York World Music Heritage  Technician               3             5                    1                   1                 2                     18            300
+45     2025-08-01     New York World Music Heritage    Security              25            10                   25                  24                 2                   6475            100
+46     2025-08-01     New York World Music Heritage     Support              10            10                   10                  10                 2                   1036            100
+47     2025-08-01     New York World Music Heritage  Technician               3            10                    1                   1                 2                     33            300
+48     2024-07-19           Athens Reunion Festival    Security              40             0                   40                  40                 1                   1600            100
+49     2024-07-19           Athens Reunion Festival     Support              16             0                   16                  16                 1                    256            100
+50     2024-07-19           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+51     2024-07-18           Athens Reunion Festival    Security              50             0                   50                  50                 1                   2500            100
+52     2024-07-18           Athens Reunion Festival     Support              20             0                   20                  20                 1                    400            100
+53     2024-07-18           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+54     2024-07-17           Athens Reunion Festival    Security              50             0                   50                  50                 1                   2500            100
+55     2024-07-17           Athens Reunion Festival     Support              20             0                   20                  20                 1                    400            100
+56     2024-07-17           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+57     2024-07-16           Athens Reunion Festival    Security              50             0                   50                  50                 1                   2500            100
+58     2024-07-16           Athens Reunion Festival     Support              20             0                   20                  20                 1                    400            100
+59     2024-07-16           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+60     2024-07-15           Athens Reunion Festival    Security              50             0                   50                  50                 1                   2500            100
+61     2024-07-15           Athens Reunion Festival     Support              20             0                   20                  20                 1                    400            100
+62     2024-07-15           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+63     2024-07-14           Athens Reunion Festival    Security              50             0                   50                  50                 1                   2500            100
+64     2024-07-14           Athens Reunion Festival     Support              20             0                   20                  20                 1                    400            100
+65     2024-07-14           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+66     2024-07-13           Athens Reunion Festival    Security              50             0                   50                  50                 1                   2500            100
+67     2024-07-13           Athens Reunion Festival     Support              20             0                   20                  20                 1                    400            100
+68     2024-07-13           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+69     2024-07-12           Athens Reunion Festival    Security              50             0                   50                  50                 1                   2500            100
+70     2024-07-12           Athens Reunion Festival     Support              20             0                   20                  20                 1                    400            100
+71     2024-07-12           Athens Reunion Festival  Technician               3             0                    1                   1                 1                      3            300
+72     2024-07-11           Athens Reunion Festival    Security              40             5                   40                  40                 1                   8000            100
+73     2024-07-11           Athens Reunion Festival     Support              16             5                   16                  16                 1                   1280            100
+74     2024-07-11           Athens Reunion Festival  Technician               3             5                    1                   1                 1                     15            300
+75     2024-07-10           Athens Reunion Festival    Security              50            10                   50                  50                 1                  25000            100
+76     2024-07-10           Athens Reunion Festival     Support              20            10                   20                  20                 1                   4000            100
+77     2024-07-10           Athens Reunion Festival  Technician               3            10                    1                   1                 1                     30            300
+78     2023-05-25        Thessaloniki Jazz Festival    Security               8             0                    8                   8                 1                     64            100
+79     2023-05-25        Thessaloniki Jazz Festival     Support               3             0                    3                   3                 1                      9            100
+80     2023-05-25        Thessaloniki Jazz Festival  Technician               3             0                    1                   1                 1                      3            300
+81     2023-05-24        Thessaloniki Jazz Festival    Security              20             0                   20                  20                 1                    400            100
+82     2023-05-24        Thessaloniki Jazz Festival     Support               8             0                    8                   8                 1                     64            100
+83     2023-05-24        Thessaloniki Jazz Festival  Technician               3             0                    1                   1                 1                      3            300
+84     2023-05-23        Thessaloniki Jazz Festival    Security               8             2                    8                   8                 1                    128            100
+85     2023-05-23        Thessaloniki Jazz Festival     Support               3             2                    3                   3                 1                     18            100
+86     2023-05-23        Thessaloniki Jazz Festival  Technician               3             2                    1                   1                 1                      6            300
+87     2023-05-22        Thessaloniki Jazz Festival    Security              20             7                   20                  20                 1                   2800            100
+88     2023-05-22        Thessaloniki Jazz Festival     Support               8             7                    8                   8                 1                    448            100
+89     2023-05-22        Thessaloniki Jazz Festival  Technician               3             7                    1                   1                 1                     21            300
+90     2023-05-21        Thessaloniki Jazz Festival    Security               8             7                    8                   8                 1                    448            100
+91     2023-05-21        Thessaloniki Jazz Festival     Support               3             7                    3                   3                 1                     63            100
+92     2023-05-21        Thessaloniki Jazz Festival  Technician               3             7                    1                   1                 1                     21            300
+93     2023-05-20        Thessaloniki Jazz Festival    Security              20            12                   20                  20                 1                   4800            100
+94     2023-05-20        Thessaloniki Jazz Festival     Support               8            12                    8                   8                 1                    768            100
+95     2023-05-20        Thessaloniki Jazz Festival  Technician               3            12                    1                   1                 1                     36            300
+96     2022-08-25               Sydney Opera Sounds    Security              10             0                   10                  10                 1                    100            100
+97     2022-08-25               Sydney Opera Sounds     Support               4             0                    4                   4                 1                     16            100
+98     2022-08-25               Sydney Opera Sounds  Technician               3             0                    1                   1                 1                      3            300
+99     2022-08-24               Sydney Opera Sounds    Security              50             3                   50                  50                 1                   7500            100
+100    2022-08-24               Sydney Opera Sounds     Support              20             3                   20                  20                 1                   1200            100
+101    2022-08-24               Sydney Opera Sounds  Technician               3             3                    1                   1                 1                      9            300
+102    2022-08-23               Sydney Opera Sounds    Security              10             3                   10                  10                 1                    300            100
+103    2022-08-23               Sydney Opera Sounds     Support               4             3                    4                   4                 1                     48            100
+104    2022-08-23               Sydney Opera Sounds  Technician               3             3                    1                   1                 1                      9            300
+105    2022-08-22               Sydney Opera Sounds    Security              50             8                   50                  50                 1                  20000            100
+106    2022-08-22               Sydney Opera Sounds     Support              20             8                   20                  20                 1                   3200            100
+107    2022-08-22               Sydney Opera Sounds  Technician               3             8                    1                   1                 1                     24            300
+108    2022-08-21               Sydney Opera Sounds    Security              10             8                   10                  10                 1                    800            100
+109    2022-08-21               Sydney Opera Sounds     Support               4             8                    4                   4                 1                    128            100
+110    2022-08-21               Sydney Opera Sounds  Technician               3             8                    1                   1                 1                     24            300
+111    2022-08-20               Sydney Opera Sounds    Security              50            13                   50                  50                 1                  32500            100
+112    2022-08-20               Sydney Opera Sounds     Support              20            13                   20                  20                 1                   5200            100
+113    2022-08-20               Sydney Opera Sounds  Technician               3            13                    1                   1                 1                     39            300
+114    2021-09-05                     Patras Nights    Security              30             0                   30                  30                 1                    900            100
+115    2021-09-05                     Patras Nights     Support              12             0                   12                  12                 1                    144            100
+116    2021-09-05                     Patras Nights  Technician               3             0                    1                   1                 1                      3            300
+117    2021-09-04                     Patras Nights    Security              30             0                   30                  30                 1                    900            100
+118    2021-09-04                     Patras Nights     Support              12             0                   12                  12                 1                    144            100
+119    2021-09-04                     Patras Nights  Technician               3             0                    1                   1                 1                      3            300
+120    2021-09-03                     Patras Nights    Security              30             5                   30                  30                 1                   4500            100
+121    2021-09-03                     Patras Nights     Support              12             5                   12                  12                 1                    720            100
+122    2021-09-03                     Patras Nights  Technician               3             5                    1                   1                 1                     15            300
+123    2021-09-02                     Patras Nights    Security              30             5                   30                  30                 1                   4500            100
+124    2021-09-02                     Patras Nights     Support              12             5                   12                  12                 1                    720            100
+125    2021-09-02                     Patras Nights  Technician               3             5                    1                   1                 1                     15            300
+126    2021-09-01                     Patras Nights    Security              30            10                   30                  30                 1                   9000            100
+127    2021-09-01                     Patras Nights     Support              12            10                   12                  12                 1                   1440            100
+128    2021-09-01                     Patras Nights  Technician               3            10                    1                   1                 1                     30            300
+129    2020-07-10              London Park Festival    Security              35             0                   35                  35                 1                   1225            100
+130    2020-07-10              London Park Festival     Support              14             0                   14                  14                 1                    196            100
+131    2020-07-10              London Park Festival  Technician               3             0                    1                   1                 1                      3            300
+132    2020-07-09              London Park Festival    Security              50             0                   50                  50                 1                   2500            100
+133    2020-07-09              London Park Festival     Support              20             0                   20                  20                 1                    400            100
+134    2020-07-09              London Park Festival  Technician               3             0                    1                   1                 1                      3            300
+135    2020-07-08              London Park Festival    Security              20             0                   20                  20                 1                    400            100
+136    2020-07-08              London Park Festival     Support               8             0                    8                   8                 1                     64            100
+137    2020-07-08              London Park Festival  Technician               3             0                    1                   1                 1                      3            300
+138    2020-07-07              London Park Festival    Security              35             0                   35                  35                 1                   1225            100
+139    2020-07-07              London Park Festival     Support              14             0                   14                  14                 1                    196            100
+140    2020-07-07              London Park Festival  Technician               3             0                    1                   1                 1                      3            300
+141    2020-07-06              London Park Festival    Security              50             0                   50                  50                 1                   2500            100
+142    2020-07-06              London Park Festival     Support              20             0                   20                  20                 1                    400            100
+143    2020-07-06              London Park Festival  Technician               3             0                    1                   1                 1                      3            300
+144    2020-07-05              London Park Festival    Security              20             0                   20                  20                 1                    400            100
+145    2020-07-05              London Park Festival     Support               8             0                    8                   8                 1                     64            100
+146    2020-07-05              London Park Festival  Technician               3             0                    1                   1                 1                      3            300
+147    2020-07-04              London Park Festival    Security              35             0                   35                  35                 1                   1225            100
+148    2020-07-04              London Park Festival     Support              14             0                   14                  14                 1                    196            100
+149    2020-07-04              London Park Festival  Technician               3             0                    1                   1                 1                      3            300
+150    2020-07-03              London Park Festival    Security              50             5                   50                  50                 1                  12500            100
+151    2020-07-03              London Park Festival     Support              20             5                   20                  20                 1                   2000            100
+152    2020-07-03              London Park Festival  Technician               3             5                    1                   1                 1                     15            300
+153    2020-07-02              London Park Festival    Security              20             5                   20                  20                 1                   2000            100
+154    2020-07-02              London Park Festival     Support               8             5                    8                   8                 1                    320            100
+155    2020-07-02              London Park Festival  Technician               3             5                    1                   1                 1                     15            300
+156    2020-07-01              London Park Festival    Security              35            10                   35                  35                 1                  12250            100
+157    2020-07-01              London Park Festival     Support              14            10                   14                  14                 1                   1960            100
+158    2020-07-01              London Park Festival  Technician               3            10                    1                   1                 1                     30            300
+159    2019-08-15                   Rio Beach Party    Security              50             0                   50                  50                 1                   2500            100
+160    2019-08-15                   Rio Beach Party     Support              20             0                   20                  20                 1                    400            100
+161    2019-08-15                   Rio Beach Party  Technician               3             0                    1                   1                 1                      3            300
+162    2019-08-14                   Rio Beach Party    Security               4             0                    4                   4                 1                     16            100
+163    2019-08-14                   Rio Beach Party     Support               2             0                    2                   2                 1                      4            100
+164    2019-08-14                   Rio Beach Party  Technician               3             0                    1                   1                 1                      3            300
+165    2019-08-13                   Rio Beach Party    Security              15             0                   15                  15                 1                    225            100
+166    2019-08-13                   Rio Beach Party     Support               6             0                    6                   6                 1                     36            100
+167    2019-08-13                   Rio Beach Party  Technician               3             0                    1                   1                 1                      3            300
+168    2019-08-12                   Rio Beach Party    Security              50             5                   50                  50                 1                  12500            100
+169    2019-08-12                   Rio Beach Party     Support              20             5                   20                  20                 1                   2000            100
+170    2019-08-12                   Rio Beach Party  Technician               3             5                    1                   1                 1                     15            300
+171    2019-08-11                   Rio Beach Party    Security               4             5                    4                   4                 1                     80            100
+172    2019-08-11                   Rio Beach Party     Support               2             5                    2                   2                 1                     20            100
+173    2019-08-11                   Rio Beach Party  Technician               3             5                    1                   1                 1                     15            300
+174    2019-08-10                   Rio Beach Party    Security              15            10                   15                  15                 1                   2250            100
+175    2019-08-10                   Rio Beach Party     Support               6            10                    6                   6                 1                    360            100
+176    2019-08-10                   Rio Beach Party  Technician               3            10                    1                   1                 1                     30            300
+177    2018-06-20         New York Sound Experience    Security              15             0                   15                  15                 1                    225            100
+178    2018-06-20         New York Sound Experience     Support               6             0                    6                   6                 1                     36            100
+179    2018-06-20         New York Sound Experience  Technician               3             0                    1                   1                 1                      3            300
+180    2018-06-19         New York Sound Experience    Security              50             0                   50                  50                 1                   2500            100
+181    2018-06-19         New York Sound Experience     Support              20             0                   20                  20                 1                    400            100
+182    2018-06-19         New York Sound Experience  Technician               3             0                    1                   1                 1                      3            300
+183    2018-06-18         New York Sound Experience    Security              25             0                   25                  25                 1                    625            100
+184    2018-06-18         New York Sound Experience     Support              10             0                   10                  10                 1                    100            100
+185    2018-06-18         New York Sound Experience  Technician               3             0                    1                   1                 1                      3            300
+186    2018-06-17         New York Sound Experience    Security              15             5                   15                  15                 1                   1125            100
+187    2018-06-17         New York Sound Experience     Support               6             5                    6                   6                 1                    180            100
+188    2018-06-17         New York Sound Experience  Technician               3             5                    1                   1                 1                     15            300
+189    2018-06-16         New York Sound Experience    Security              50             5                   50                  50                 1                  12500            100
+190    2018-06-16         New York Sound Experience     Support              20             5                   20                  20                 1                   2000            100
+191    2018-06-16         New York Sound Experience  Technician               3             5                    1                   1                 1                     15            300
+192    2018-06-15         New York Sound Experience    Security              25            10                   25                  25                 1                   6250            100
+193    2018-06-15         New York Sound Experience     Support              10            10                   10                  10                 1                   1000            100
+194    2018-06-15         New York Sound Experience  Technician               3            10                    1                   1                 1                     30            300
+195    2017-07-05  Athens Main Stage Music Festival    Security              40             5                   40                  40                 1                   8000            100
+196    2017-07-05  Athens Main Stage Music Festival     Support              16             5                   16                  16                 1                   1280            100
+197    2017-07-05  Athens Main Stage Music Festival  Technician               3             5                    1                   1                 1                     15            300
+198    2017-07-04  Athens Main Stage Music Festival    Security              50             5                   50                  50                 1                  12500            100
+199    2017-07-04  Athens Main Stage Music Festival     Support              20             5                   20                  20                 1                   2000            100
+200    2017-07-04  Athens Main Stage Music Festival  Technician               3             5                    1                   1                 1                     15            300
+201    2017-07-03  Athens Main Stage Music Festival    Security              50             5                   50                  50                 1                  12500            100
+202    2017-07-03  Athens Main Stage Music Festival     Support              20             5                   20                  20                 1                   2000            100
+203    2017-07-03  Athens Main Stage Music Festival  Technician               3             5                    1                   1                 1                     15            300
+204    2017-07-02  Athens Main Stage Music Festival    Security              40            10                   40                  40                 1                  16000            100
+205    2017-07-02  Athens Main Stage Music Festival     Support              16            10                   16                  16                 1                   2560            100
+206    2017-07-02  Athens Main Stage Music Festival  Technician               3            10                    1                   1                 1                     30            300
+207    2017-07-01  Athens Main Stage Music Festival    Security              50            10                   50                  50                 1                  25000            100
+208    2017-07-01  Athens Main Stage Music Festival     Support              20            10                   20                  20                 1                   4000            100
+209    2017-07-01  Athens Main Stage Music Festival  Technician               3            10                    1                   1                 1                     30            300

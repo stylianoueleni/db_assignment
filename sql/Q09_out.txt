@@ -1,0 +1,8 @@
+-- Results for Query 9: visitors_same_attendance_count
+
+   visitor_id        visitor_name  year  attendance_count          festivals_attended
+0          31  Dimitris Vasileiou  2023                 4  Thessaloniki Jazz Festival
+1          32      Nikos Savvidis  2023                 4  Thessaloniki Jazz Festival
+2          33      Georgia Kostas  2022                 5         Sydney Opera Sounds
+3          34    Athina Ioannidis  2022                 5         Sydney Opera Sounds
+4          35   Andreas Ioannidis  2022                 5         Sydney Opera Sounds

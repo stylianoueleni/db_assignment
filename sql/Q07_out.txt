@@ -1,0 +1,4 @@
+-- Results for Query 7: festival_lowest_tech_experience
+
+   festival_id              festival_name  year avg_experience_level
+0            2  New York Sound Experience  2018               4.0000

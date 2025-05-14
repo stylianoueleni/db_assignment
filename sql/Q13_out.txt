@@ -1,0 +1,15 @@
+-- Results for Query 13: artists_multiple_continents
+
+    artist_id                  name  continent_count                                    continents
+0          33     Christos Thivaios                4  Australia,Europe,North America,South America
+1          25       Elena Paparizou                4  Australia,Europe,North America,South America
+2          17          Panos Kiamos                4  Australia,Europe,North America,South America
+3          39     Anastasia-Dimitra                3            Europe,North America,South America
+4          34     Christos Mastoras                3                Australia,Europe,South America
+5          10  Dionysis Savvopoulos                3            Europe,North America,South America
+6           6    Eleonora Zouganeli                3            Europe,North America,South America
+7          13   Evridiki Theokleous                3            Europe,North America,South America
+8          28          Mariza Rizou                3            Europe,North America,South America
+9          18    Natasa Theodoridou                3            Europe,North America,South America
+10         32      Sokratis Malamas                3                Australia,Europe,South America
+11         20        Stelios Rokkos                3            Europe,North America,South America

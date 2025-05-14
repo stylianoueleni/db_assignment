@@ -1,0 +1,73 @@
+-- Results for Query 8: unscheduled_support_staff
+
+-- Parameters: date=2019-08-11
+
+    staff_id                    name  age experience_level
+0        120   Alexandra Michailidou   25         Beginner
+1        111        Andreas Georgiou   33      Experienced
+2        114         Athina Nikolaou   27         Beginner
+3        112     Christina Karamanli   25         Beginner
+4        113  Dimitris Papathanasiou   30     Intermediate
+5        108         Elena Dimitriou   31      Experienced
+6        116       Eleni Vasileiadou   29     Intermediate
+7        118     Ioanna Konstantinou   31      Experienced
+8        124            Irene Thomou   26         Beginner
+9        115          Kostas Alexiou   32      Experienced
+10       109         Nikos Vasileiou   26         Beginner
+11       119       Panagiotis Kouris   28     Intermediate
+12       110           Sofia Ioannou   29     Intermediate
+13       125      Spiros Markopoulos   32      Experienced
+14       117       Stavros Papadakis   26         Beginner
+15       253         Support Staff 1   23         Beginner
+16       262        Support Staff 10   32           Intern
+17       263        Support Staff 11   33         Beginner
+18       264        Support Staff 12   34     Intermediate
+19       265        Support Staff 13   35      Experienced
+20       266        Support Staff 14   36           Expert
+21       267        Support Staff 15   37           Intern
+22       268        Support Staff 16   38         Beginner
+23       269        Support Staff 17   39     Intermediate
+24       270        Support Staff 18   40      Experienced
+25       271        Support Staff 19   41           Expert
+26       254         Support Staff 2   24     Intermediate
+27       272        Support Staff 20   42           Intern
+28       273        Support Staff 21   43         Beginner
+29       274        Support Staff 22   44     Intermediate
+30       275        Support Staff 23   45      Experienced
+31       276        Support Staff 24   46           Expert
+32       277        Support Staff 25   22           Intern
+33       278        Support Staff 26   23         Beginner
+34       279        Support Staff 27   24     Intermediate
+35       280        Support Staff 28   25      Experienced
+36       281        Support Staff 29   26           Expert
+37       255         Support Staff 3   25      Experienced
+38       282        Support Staff 30   27           Intern
+39       283        Support Staff 31   28         Beginner
+40       284        Support Staff 32   29     Intermediate
+41       285        Support Staff 33   30      Experienced
+42       286        Support Staff 34   31           Expert
+43       287        Support Staff 35   32           Intern
+44       288        Support Staff 36   33         Beginner
+45       289        Support Staff 37   34     Intermediate
+46       290        Support Staff 38   35      Experienced
+47       291        Support Staff 39   36           Expert
+48       256         Support Staff 4   26           Expert
+49       292        Support Staff 40   37           Intern
+50       293        Support Staff 41   38         Beginner
+51       294        Support Staff 42   39     Intermediate
+52       295        Support Staff 43   40      Experienced
+53       296        Support Staff 44   41           Expert
+54       297        Support Staff 45   42           Intern
+55       298        Support Staff 46   43         Beginner
+56       299        Support Staff 47   44     Intermediate
+57       300        Support Staff 48   45      Experienced
+58       301        Support Staff 49   46           Expert
+59       257         Support Staff 5   27           Intern
+60       302        Support Staff 50   22           Intern
+61       258         Support Staff 6   28         Beginner
+62       259         Support Staff 7   29     Intermediate
+63       260         Support Staff 8   30      Experienced
+64       261         Support Staff 9   31           Expert
+65       121          Thanos Andreou   34      Experienced
+66       123    Vassilis Karagiannis   29     Intermediate
+67       122          Zoe Karahalios   27     Intermediate

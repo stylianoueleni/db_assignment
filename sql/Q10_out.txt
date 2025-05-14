@@ -1,0 +1,6 @@
+-- Results for Query 10: top_genre_pairs
+
+  genre1   genre2  artist_count
+0    Art  Popular             6
+1   Rock      Pop             4
+2   Folk     Jazz             2

@@ -1,0 +1,27 @@
+JOIN STRATEGY ANALYSIS FOR 6. Visitor Attended Performances and Ratings
+==================================================
+
+QUERY DESCRIPTION:
+Shows performances attended by a specific visitor and their average ratings.
+
+PARAMETERS USED:
+visitor_id = 2
+
+PERFORMANCE SUMMARY:
+Regular Query: [time] seconds
+Optimized Query (Index Hints): [time] seconds
+Nested Loop Join: [time] seconds
+Hash Join: [time] seconds
+Merge Join: [time] seconds
+
+JOIN STRATEGY ANALYSIS:
+Nested Loop Join: Best for small tables or when one table is very small and the join column is indexed.
+    Hash Join: Good for large tables without proper indexes, builds hash tables in memory.
+    Merge Join: Efficient when join columns are indexed and data is already sorted.
+    Index Hints: Forces optimizer to use specific indexes that we know are efficient.
+
+CONCLUSION:
+[Include your findings about which join strategy performs best and why]
+
+RECOMMENDATIONS:
+[Include recommendations for optimizing this specific query]

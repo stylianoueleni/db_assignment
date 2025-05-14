@@ -1,0 +1,15 @@
+-- Results for Query 2: artists_by_genre_participation
+
+-- Parameters: year=2025, genre=pop
+
+   artist_id                 name       pseudonym genre     subgenre participated
+0          2           Anna Vissi            None   Pop    Dance Pop           No
+1         34    Christos Mastoras        Mastoras   Pop     Pop Rock           No
+2         14        Despina Malea           Vandi   Pop  Dance Laiko           No
+3         25      Elena Paparizou       Paparizou   Pop    Dance Pop           No
+4         27       Entela Fureraj  Eleni Foureira   Pop    Dance Pop           No
+5         13  Evridiki Theokleous        Evridiki   Pop     Rock Pop          Yes
+6         38   Giorgos Kakossaios            None   Pop        Laiko           No
+7         11          Kaiti Garbi            None   Pop    Laiko Pop          Yes
+8         23      Thodoris Ferris          Ferris   Pop     Pop Rock           No
+9         29  Thodoris Marantinis            None   Pop     Pop Rock           No

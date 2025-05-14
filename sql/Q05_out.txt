@@ -1,0 +1,6 @@
+-- Results for Query 5: young_artists_participation
+
+   artist_id                name  age  festival_count
+0         39   Anastasia-Dimitra   21               3
+1         37        Maria-Sophia   24               3
+2         38  Giorgos Kakossaios   25               1

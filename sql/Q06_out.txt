@@ -1,0 +1,8 @@
+-- Results for Query 6: visitor_performances_ratings
+
+-- Parameters: visitor_id=2
+
+           event_name festival_date                 performer performance_type avg_rating  review_count
+0  Rock Opening Night    2017-07-01  Vasilis Papakonstantinou          Warm Up     3.0000             1
+1  Rock Opening Night    2017-07-01                   Pyx Lax         Headline     4.0000             1
+2  Rock Opening Night    2017-07-01          Sokratis Malamas    Special Guest     4.0000             1

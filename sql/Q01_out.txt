@@ -1,0 +1,33 @@
+-- Results for Query 1: revenue_by_year_payment
+
+    year payment_method total_revenue  tickets_sold
+0   2026    Credit Card        970.00             7
+1   2026     Debit Card        540.00             5
+2   2026  Bank Transfer        270.00             3
+3   2025    Credit Card        910.00             8
+4   2025     Debit Card        510.00             4
+5   2025  Bank Transfer        255.00             3
+6   2024    Credit Card        810.00             7
+7   2024     Debit Card        450.00             5
+8   2024  Bank Transfer        225.00             3
+9   2023    Credit Card       1320.00            18
+10  2023     Debit Card        480.00             6
+11  2023  Bank Transfer        240.00             4
+12  2022    Credit Card       2225.00            25
+13  2022     Debit Card        640.00             6
+14  2022  Bank Transfer        320.00             4
+15  2021    Credit Card        660.00            10
+16  2021     Debit Card        440.00             6
+17  2021  Bank Transfer        220.00             4
+18  2020    Credit Card        780.00            10
+19  2020     Debit Card        520.00             6
+20  2020  Bank Transfer        260.00             4
+21  2019    Credit Card       1100.00            10
+22  2019     Debit Card        560.00             6
+23  2019  Bank Transfer        280.00             4
+24  2018    Credit Card        720.00            10
+25  2018     Debit Card        480.00             6
+26  2018  Bank Transfer        240.00             4
+27  2017    Credit Card       1090.00            18
+28  2017     Debit Card        860.00            11
+29  2017  Bank Transfer        330.00             6
