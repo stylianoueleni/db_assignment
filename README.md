@@ -53,9 +53,12 @@ The Music Festival Database is accessible through a Python-based GUI application
 5. **Export Functionality**: Options to export query results and SQL statements
 
 ### Screenshots
-- ![Main Interface:](docs/images/main_interface.png)
-- ![Query Results Visualization:](docs/images/visualization.png)
-- ![Performance Analysis:](docs/images/performance_comparison.pn)
+#### Main Interface
+![Main Interface](docs/images/main_interface.png)
+#### Query Results Visualization
+![Query Results Visualization](docs/images/visualization.png)
+#### Performance Analysis
+![Performance Analysis](docs/images/performance_comparison.png)
 
 ## Design Decisions and Assumptions
 
